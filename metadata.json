@@ -1,0 +1,6 @@
+{
+  "name": "PATHIQ - AI Personal Learning Platform",
+  "description": "AI-powered personalized adaptive learning platform that turns notes into practice, analyzes gaps, dynamically updates roadmaps, and tutors students across all academic subjects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
