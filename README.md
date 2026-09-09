@@ -61,7 +61,7 @@ Adaptive Recommendations
 
 The project is built as a modern web application and is designed to integrate AI-powered learning functionality.
 
-**Core technologies:**
+**Core technologies:** 
 
 - HTML / CSS / JavaScript
 - React
